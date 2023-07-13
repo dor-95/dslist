@@ -13,3 +13,10 @@ Intensivão Java Spring
 - Padrão camadas
 - Controller, service, repository
 - Padrão DTO
+
+### Aula 02
+
+- Relacionamentos N-N
+- Classe de associação, embedded id
+- Consultas SQL no Spring Data JPA
+- Projections
